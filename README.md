@@ -1,6 +1,9 @@
 Biogrid-Hadoop
 ==============
 ####Apache Hadoop MapReduce project for biological interaction datasets
+
+![alt tag](https://raw.githubusercontent.com/benauer/BioGrid-Hadoop/master/hadoop.gif)
+
 <br>
 &nbsp;To use this tool, you need a correctly configured Hadoop environment. In my case, the version is 1.2.1. The goal of this project is to query biological interactions in a fast way and also to demonstrate the "power of Hadoop". <br>
 <br>
