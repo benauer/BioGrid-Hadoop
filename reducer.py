@@ -1,7 +1,6 @@
 #!/usr/bin/env python2
 
 import sys
-import subprocess
 
 def main():
 	#Replacing tabs to commas
