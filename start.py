@@ -86,5 +86,7 @@ def main():
 	#Exit message
 	msgbox(msg="Hadoop MR Job has been executed successfully. Gene interactions have been downloaded to " + outputFileDir + " folder.", title='BioGrid Hadoop Console', ok_button='Exit')
 
+	return 0
+
 if __name__ == "__main__":
 	main()
