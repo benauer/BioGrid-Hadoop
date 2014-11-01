@@ -75,8 +75,8 @@ def main():
 	else:
 		print "ERROR in command get...\n"
 
-	#Purge HDFS
-	print "Purging HDFS folders...\n"
+	#Delete HDFS
+	print "Delete HDFS folders...\n"
 	error = subprocess.call(["bin/hadoop", "dfs", "-rmr", "/user/"])
 	if error != 0:
 		print "ERROR!\n"
