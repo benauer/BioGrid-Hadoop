@@ -22,3 +22,8 @@ Then you need to run <i>start.py</i> and follow the instructions inside the prog
 <i>Tested with python2 and Apache Hadoop version 1.2.1.</i>
 
 Please do not hesitate to contact me if you have any questions. You can reach me via e-mail: _bence.auer@gmail.com_.
+
+<p align="right">
+  <img src="http://www.gnu.org/graphics/gplv3-127x51.png")>
+</p>
+
